@@ -203,4 +203,5 @@ This architecture supports horizontal scalability and is suitable for large even
 
 ---
 
-## Project Structure
+## Author
+Zifei Yu – Event Analytics MongoDB Project
